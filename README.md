@@ -20,7 +20,8 @@ https://blazor.syncfusion.com/documentation/dialog/animation
 
 ## Prerequisites
 
-* Visual Studio 2022
+* .NET 10 SDK
+* Visual Studio 2022 (17.14 or later) or Visual Studio Code
 
 ## How to run the project
 
